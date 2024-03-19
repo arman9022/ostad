@@ -1,3 +1,22 @@
 @media screen and (max-width: 480px) {
-
+  .cardStatic{
+    min-height: 30vh;
+  }
+  .LCC1{
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+  }
+  .LCC2{
+    border-bottom: 1px solid gray;
+  }
+  .LCC3{
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+  }
+  .LCC4{
+    border-bottom: 1px solid gray;
+  }
+  .LCC3{
+    border-right: 1px solid gray;
+  }
 }

@@ -2,4 +2,7 @@
   .courseTitle{
     font-size: 20px;
   }
+  .cardStatic{
+    min-height: 50vh;
+  }
 }
