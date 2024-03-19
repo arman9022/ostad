@@ -1,6 +1,6 @@
 @media screen and (max-width: 480px) {
   .cardStatic{
-    min-height: 30vh;
+    min-height: 35vh;
   }
   .LCC1{
     border-right: 1px solid gray;
@@ -16,7 +16,7 @@
   .LCC4{
     border-bottom: 1px solid gray;
   }
-  .LCC3{
+  .LCC5{
     border-right: 1px solid gray;
   }
 }
