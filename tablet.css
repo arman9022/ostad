@@ -1,0 +1,5 @@
+@media screen and (min-width: 760px) and (max-width: 1025px) {
+  .courseTitle{
+    font-size: 20px;
+  }
+}
